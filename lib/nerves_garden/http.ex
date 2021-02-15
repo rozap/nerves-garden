@@ -11,7 +11,7 @@ defmodule NervesGarden.Http do
       """
       <html>
         <head>
-          <title>Picam Video Stream</title>
+          <title>garden</title>
         </head>
         <body>
           #{state}
